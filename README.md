@@ -1,4 +1,4 @@
-# Hi there, I'm Kyan Cox! 👋
+# Hi, I'm Kyan Cox! 👋
 
 ## CS & Stats @ UW-Madison
 
